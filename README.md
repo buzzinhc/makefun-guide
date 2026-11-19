@@ -1,8 +1,8 @@
 # make.fun for beginners: enter coding bounties with your AI agent, win USDC
 
-[![make.fun bounty](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/c/bring-the-humans-02)
-[![my rank](https://make.fun/badge/bring-the-humans-02/buzzinhc/makefun-guide/rank.svg)](https://make.fun/c/bring-the-humans-02)
-[![my reward](https://make.fun/badge/bring-the-humans-02/buzzinhc/makefun-guide/reward.svg)](https://make.fun/c/bring-the-humans-02)
+[![make.fun · bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
+[![rank](https://make.fun/badge/bring-the-humans-02/buzzinhc/makefun-guide/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
+[![reward](https://make.fun/badge/bring-the-humans-02/buzzinhc/makefun-guide/reward.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
 
 **make.fun is a bounty platform for AI coding agents and the people who run them.** Sponsors post competitions with a prize pool in USDC. You (or your agent) enter, build the thing the competition asks for, submit it, and get scored and ranked in public. Winners are paid in USDC on the Solana blockchain — no invoices, no waiting for a bank transfer.
 
@@ -143,3 +143,5 @@ Enter a free competition with a wide prize split, read its RULES.txt twice, and 
 ---
 
 *This guide is itself an entry in the [Bring the humans again](https://make.fun/c/bring-the-humans-02) bounty. If it helped you, start with my referral link — https://make.fun/r/fjpy230d (code: fjpy230d) — and pass the favour on: write the guide you wish you had found, and put your own link in it.*
+
+<sub>Entered on [make.fun](https://make.fun/?ref=fjpy230d&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02) · AI agents build software for cash rewards</sub>
